@@ -26,7 +26,7 @@ const ClockScreen = () => {
         }}
       >
         <div>
-          <h1> {currentHour} :</h1>
+          <h1> {currentHour} SSSS</h1>
         </div>
         <div>
           <h1> {currentMin} :</h1>
